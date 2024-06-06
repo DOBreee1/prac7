@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.img-fluid {
+    max-width: 150px;
+    height: auto;
+}
+
+h1, h2 {
+    margin-top: 20px;
+}
